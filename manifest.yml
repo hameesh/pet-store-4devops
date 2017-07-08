@@ -1,4 +1,4 @@
 applications:
 - name: pet-store
   memory: 512M
-  path: target/jpetstore
+  path: target/petstore
